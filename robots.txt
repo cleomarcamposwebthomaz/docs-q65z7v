@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-hmxajk.indowin.cfd/sitemap.xml
